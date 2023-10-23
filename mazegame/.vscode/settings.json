@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        // ".vscode": true,
+        // "obj": true,
+        // "bin": true,
+        // "makefile": true
+    },
+    "files.associations": {}
+    
+}
